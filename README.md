@@ -4,6 +4,11 @@
 <img src="resources/pipeline.png" alt="image-20240321090057059" style="zoom: 20%; display: block; margin-right: auto; margin-left: 0;" />
 
 
+## Datasets
+We open sourced our three simulated datasets **VCTK-Token**.
+
+**Download link will be attached soon.**
+
 ## Environment configuration
 Please refer [environment.yml](environment.yml)
 
