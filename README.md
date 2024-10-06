@@ -19,7 +19,10 @@ If you have Miniconda/Anaconda installed, you can directly use the command: `con
 We opensourced our inference code and checkpoints, here are the steps to perform inference:
 
 0. Clone this repository.
+  
+1. Download [checkpoints](https://drive.google.com/drive/folders/14N8-ax3DOxJc64PvrHrv4jHNwCI5u3_o?usp=sharing), you can choose word or phoneme level.
 
+2. Run `inference.ipynb` to perform inference step by step.
 
 
 
