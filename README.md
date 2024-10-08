@@ -20,9 +20,11 @@ We opensourced our inference code and checkpoints, here are the steps to perform
 
 0. Clone this repository.
   
-1. Download [checkpoints](https://drive.google.com/drive/folders/14N8-ax3DOxJc64PvrHrv4jHNwCI5u3_o?usp=sharing), you can choose word or phoneme level.
-
-2. Run `inference.ipynb` to perform inference step by step.
+1. Download [checkpoints](https://drive.google.com/drive/folders/14N8-ax3DOxJc64PvrHrv4jHNwCI5u3_o?usp=sharing), create a folder named `pretrained`, and put all downloaded models into it.
+   
+2. We also provide testing datasets for quick inference, download it [here](). Put the folder `testingset` at the same level as `inference.ipynb`.
+   
+3. Run `inference.ipynb` to perform inference step by step.
 
 
 
