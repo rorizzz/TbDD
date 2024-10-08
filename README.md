@@ -5,7 +5,7 @@
 
 
 ## Datasets
-We open sourced our three simulated datasets **VCTK-Token**.
+We open sourced our simulated datasets **VCTK-Token**.
 
 **Download link will be attached soon.**
 
